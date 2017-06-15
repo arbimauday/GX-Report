@@ -1,0 +1,20 @@
+#1. penggunaan nama file 'no_kodePegawai.txt'
+file 'no_kodePegawai.txt' digunakan untuk membuat nomor unik pekagawai atau kode pegawai saat melakukan pendaftaran yang terdapat dalam ==> GX-Report/no_kodePegawai.txt
+
+--------------------------------------------------------------
+
+#2. Penggunaan CronJob dalam Cpanel untuk menjalankan fungsi function
+* function kirim email Reminder Pekerjaan Pegawai
+  url : GX-Report/Notifikasi/SendReminder/Email_Reminder
+* function record pekerjaan pegawai hari ini atau history pekerjaan
+  url : GX-Report/Pegawai/Home/input_history_laporan
+
+--------------------------------------------------------------
+
+#3. Pengunaan HISTORY LAPORAN atau table 'history_laporan_harian'
+History laporan sangat penting, karna jika pekerjaan pada hari ini tidak terdaftar dalam hitory laporan dengan sendirinya data pekerjaan tidak akan di tampilkan, karna pekerjaan di munculkan dari history laporan
+
+--------------------------------------------------------------
+
+#4. Penggunaan image 'bg.png'
+image atau gambar yang digunakan dalam tampilan pengiriman email dengan nama file 'bg.png'
